@@ -2,7 +2,7 @@
 
 The Train Management System proposed in this project aims to address the challenges associated with manual management processes by leveraging the power of technology. By utilizing Java programming language along with JDBC (Java Database Connectivity), the system facilitates seamless interaction with a relational database, enabling efficient storage, retrieval, and manipulation of data related to trains-tickets, passengers, and reservations.
 
-STEPS:
+STEPS TO IMPLEMENT ABOVE PROJECT:
 
 1.Download the src files given.
 
@@ -47,6 +47,8 @@ To check the data in database:
  SELECT *FROM ticket;
  
 8.The program is successfully worked.
+
+----------------------------------------------------------------------------------------------------
 
 
 
